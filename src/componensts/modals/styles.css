@@ -1,0 +1,41 @@
+.loader-main-cont{
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(0, 0, 0, 0.5);
+    padding: 0 10px;
+}
+
+.loader-h-w-cont{
+    max-height: 300px;
+    max-width: 300px;
+    overflow-y: auto;
+    border-radius:5px ;
+    background-color: white;
+    border: 5px solid rgb(8, 95, 129);
+}
+.loader-inner-cont{
+    width: 100%;
+}
+
+.loader-content-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 8px 20px;
+    max-width: 400px;
+
+}
+
+.loader-content-cont h2{
+    font-weight: 500;
+    font-size: 1.6rem;
+    text-align: center;
+    color: rgb(8, 95, 129);
+}
