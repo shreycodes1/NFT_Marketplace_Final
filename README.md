@@ -1,3 +1,15 @@
+# NFTMarket hosted on IPFS using Fleek
+
+https://noisy-bread-0335.on.fleek.co
+
+# Smartcontract Github link
+
+https://github.com/shreycodes1/Smartcontract_PartA
+
+# Smartcontract Address Deployed on Sepolia testnet 
+
+address : https://sepolia.etherscan.io/address/0x51b31be9c0ae43759992ac75b0c48f72655b0f57
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -29,7 +41,6 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-# NFTMarket
 
 # NodeVersion
 
