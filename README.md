@@ -1,7 +1,7 @@
 # NFTMarket hosted on IPFS using Fleek
 
-https://noisy-bread-0335.on.fleek.co
-
+[https://noisy-bread-0335.on.fleek.co
+](https://noisy-bread-0335.on.fleek.co/)
 # Smartcontract Github link
 
 https://github.com/shreycodes1/Smartcontract_PartA
